@@ -44,7 +44,7 @@ Source Code: [Click here](https://github.com/nareshkumar29/JavaScript-Projects/t
 
 ## Project - 07
 ### Happy Diwali
-Live Demo: [Click here](https://frontend-projects-js-01.netlify.app)  <br>
+Live Demo: [Click here](https://frontend-projects-js-07.netlify.app)  <br>
 <img width="150" height='200' alt="Screenshot 2023-11-10 at 6 55 03 PM" src="https://github.com/nareshkumar29/JavaScript-Projects/assets/121565671/6dca9ba7-1380-41b3-93e2-68ae5b0976dd">  <br>
 Source Code: [Click here](https://github.com/nareshkumar29/JavaScript-Projects/tree/main/Project%20-%2007%20Happy%20Diwali) 
 
