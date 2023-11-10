@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#diwali{
+    height: 500px;
+    width: 250px;
+    display: none;
+}
+
+span{
+    font-size: 17px;
+}
+
+button{
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid white;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 111, 8);
+    font-weight: 900;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(248, 132, 50);
+}
